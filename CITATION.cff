@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and this repository."
+title: "Replication code for The Period-Cohort Annuity Valuation Gap under Mortality Model Uncertainty"
+type: software
+version: 1.0.0
+license: GPL-3.0-only
+abstract: "Single-population R pipeline reproducing mortality-model validation, ensemble construction, EIOPA and flat-rate annuity valuation, and the paper's tables and figures."
+authors:
+  - family-names: Bimonte
+    given-names: Giovanna
+    affiliation: University of Salerno
+    email: gbimonte@unisa.it
+  - family-names: Gallo
+    given-names: Ivan
+    affiliation: University of Bologna
+    email: ivan.gallo@unibo.it
+  - family-names: Russolillo
+    given-names: Maria
+    affiliation: University of Salerno
+    email: mrussolillo@unisa.it
+keywords:
+  - mortality forecasting
+  - annuity valuation
+  - Shapley value
+  - period-cohort gap
+  - EIOPA
+preferred-citation:
+  type: article
+  title: "The Period-Cohort Annuity Valuation Gap under Mortality Model Uncertainty"
+  authors:
+    - family-names: Bimonte
+      given-names: Giovanna
+    - family-names: Gallo
+      given-names: Ivan
+    - family-names: Russolillo
+      given-names: Maria
+  journal: "Annals of Actuarial Science"
+  notes: "Manuscript AAS-2026-0050; article and repository DOI metadata pending."
