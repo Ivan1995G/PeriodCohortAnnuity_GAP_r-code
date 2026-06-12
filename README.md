@@ -1,20 +1,8 @@
 # The Period-Cohort Annuity Valuation Gap under Mortality Model Uncertainty
 
-Single-population replication repository for:
+This repository contains the R code for the paper:
 
-Giovanna Bimonte, Ivan Gallo, and Maria Russolillo, "The Period-Cohort
-Annuity Valuation Gap under Mortality Model Uncertainty", submitted to
-*Annals of Actuarial Science* (manuscript AAS-2026-0050).
-
-## Scope
-
-It reproduces the mortality validation,
-five-model selection, ensemble weights, independent test, final mortality
-projection, period/cohort annuity valuation, eight tables, and nine figures
-reported in the paper.
-
-The pipeline analyses one population per run. It does not automatically loop
-over male, female, and total mortality.
+> "The Period-Cohort Annuity Valuation Gap under Mortality Model Uncertainty", submitted to Annals of Actuarial Science.
 
 ## Repository Structure
 
